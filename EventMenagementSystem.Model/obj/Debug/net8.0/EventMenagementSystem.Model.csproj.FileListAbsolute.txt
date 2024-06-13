@@ -1,0 +1,11 @@
+D:\EventMenagementSystem\EventMenagementSystem.Model\bin\Debug\net8.0\EventMenagementSystem.Model.deps.json
+D:\EventMenagementSystem\EventMenagementSystem.Model\bin\Debug\net8.0\EventMenagementSystem.Model.dll
+D:\EventMenagementSystem\EventMenagementSystem.Model\bin\Debug\net8.0\EventMenagementSystem.Model.pdb
+D:\EventMenagementSystem\EventMenagementSystem.Model\obj\Debug\net8.0\EventMenagementSystem.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\EventMenagementSystem\EventMenagementSystem.Model\obj\Debug\net8.0\EventMenagementSystem.Model.AssemblyInfoInputs.cache
+D:\EventMenagementSystem\EventMenagementSystem.Model\obj\Debug\net8.0\EventMenagementSystem.Model.AssemblyInfo.cs
+D:\EventMenagementSystem\EventMenagementSystem.Model\obj\Debug\net8.0\EventMenagementSystem.Model.csproj.CoreCompileInputs.cache
+D:\EventMenagementSystem\EventMenagementSystem.Model\obj\Debug\net8.0\EventMenagementSystem.Model.dll
+D:\EventMenagementSystem\EventMenagementSystem.Model\obj\Debug\net8.0\refint\EventMenagementSystem.Model.dll
+D:\EventMenagementSystem\EventMenagementSystem.Model\obj\Debug\net8.0\EventMenagementSystem.Model.pdb
+D:\EventMenagementSystem\EventMenagementSystem.Model\obj\Debug\net8.0\ref\EventMenagementSystem.Model.dll

@@ -1,0 +1,17 @@
+D:\EventMenagementSystem\EventManagementSystem.Services\bin\Debug\net8.0\EventManagementSystem.Services.deps.json
+D:\EventMenagementSystem\EventManagementSystem.Services\bin\Debug\net8.0\EventManagementSystem.Services.dll
+D:\EventMenagementSystem\EventManagementSystem.Services\bin\Debug\net8.0\EventManagementSystem.Services.pdb
+D:\EventMenagementSystem\EventManagementSystem.Services\obj\Debug\net8.0\EventManagementSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\EventMenagementSystem\EventManagementSystem.Services\obj\Debug\net8.0\EventManagementSystem.Services.AssemblyInfoInputs.cache
+D:\EventMenagementSystem\EventManagementSystem.Services\obj\Debug\net8.0\EventManagementSystem.Services.AssemblyInfo.cs
+D:\EventMenagementSystem\EventManagementSystem.Services\obj\Debug\net8.0\EventManagementSystem.Services.csproj.CoreCompileInputs.cache
+D:\EventMenagementSystem\EventManagementSystem.Services\obj\Debug\net8.0\EventManagementSystem.Services.dll
+D:\EventMenagementSystem\EventManagementSystem.Services\obj\Debug\net8.0\refint\EventManagementSystem.Services.dll
+D:\EventMenagementSystem\EventManagementSystem.Services\obj\Debug\net8.0\EventManagementSystem.Services.pdb
+D:\EventMenagementSystem\EventManagementSystem.Services\obj\Debug\net8.0\ref\EventManagementSystem.Services.dll
+D:\EventMenagementSystem\EventManagementSystem.Services\obj\Debug\net8.0\EventManagementSystem.Services.csproj.AssemblyReference.cache
+D:\EventMenagementSystem\EventManagementSystem.Services\bin\Debug\net8.0\EventMenagementSystem.EntityFramework.dll
+D:\EventMenagementSystem\EventManagementSystem.Services\bin\Debug\net8.0\EventMenagementSystem.Model.dll
+D:\EventMenagementSystem\EventManagementSystem.Services\bin\Debug\net8.0\EventMenagementSystem.EntityFramework.pdb
+D:\EventMenagementSystem\EventManagementSystem.Services\bin\Debug\net8.0\EventMenagementSystem.Model.pdb
+D:\EventMenagementSystem\EventManagementSystem.Services\obj\Debug\net8.0\EventMan.0EC09C8B.Up2Date
