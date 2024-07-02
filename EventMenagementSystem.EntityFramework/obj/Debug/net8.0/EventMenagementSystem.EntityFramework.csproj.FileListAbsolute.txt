@@ -1,0 +1,17 @@
+D:\EventMenagementSystem\EventMenagementSystem.EntityFramework\obj\Debug\net8.0\EventMenagementSystem.EntityFramework.csproj.AssemblyReference.cache
+D:\EventMenagementSystem\EventMenagementSystem.EntityFramework\obj\Debug\net8.0\EventMenagementSystem.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\EventMenagementSystem\EventMenagementSystem.EntityFramework\obj\Debug\net8.0\EventMenagementSystem.EntityFramework.AssemblyInfoInputs.cache
+D:\EventMenagementSystem\EventMenagementSystem.EntityFramework\obj\Debug\net8.0\EventMenagementSystem.EntityFramework.AssemblyInfo.cs
+D:\EventMenagementSystem\EventMenagementSystem.EntityFramework\obj\Debug\net8.0\EventMenagementSystem.EntityFramework.csproj.CoreCompileInputs.cache
+D:\EventMenagementSystem\EventMenagementSystem.EntityFramework\bin\Debug\net8.0\EventMenagementSystem.EntityFramework.deps.json
+D:\EventMenagementSystem\EventMenagementSystem.EntityFramework\bin\Debug\net8.0\EventMenagementSystem.EntityFramework.dll
+D:\EventMenagementSystem\EventMenagementSystem.EntityFramework\bin\Debug\net8.0\EventMenagementSystem.EntityFramework.pdb
+D:\EventMenagementSystem\EventMenagementSystem.EntityFramework\bin\Debug\net8.0\EventMenagementSystem.Model.dll
+D:\EventMenagementSystem\EventMenagementSystem.EntityFramework\bin\Debug\net8.0\EventMenagementSystem.Model.pdb
+D:\EventMenagementSystem\EventMenagementSystem.EntityFramework\obj\Debug\net8.0\EventMen.C8CFC68F.Up2Date
+D:\EventMenagementSystem\EventMenagementSystem.EntityFramework\obj\Debug\net8.0\EventMenagementSystem.EntityFramework.dll
+D:\EventMenagementSystem\EventMenagementSystem.EntityFramework\obj\Debug\net8.0\refint\EventMenagementSystem.EntityFramework.dll
+D:\EventMenagementSystem\EventMenagementSystem.EntityFramework\obj\Debug\net8.0\EventMenagementSystem.EntityFramework.pdb
+D:\EventMenagementSystem\EventMenagementSystem.EntityFramework\obj\Debug\net8.0\ref\EventMenagementSystem.EntityFramework.dll
+D:\EventMenagementSystem\EventMenagementSystem.EntityFramework\bin\Debug\net8.0\EventMenagementSystem.EntityFramework.runtimeconfig.json
+D:\EventMenagementSystem\EventMenagementSystem.EntityFramework\obj\Debug\net8.0\EventMenagementSystem.EntityFramework.genruntimeconfig.cache
