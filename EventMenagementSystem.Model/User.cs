@@ -33,7 +33,11 @@ namespace EventManagementSystem.Model
         [Required]
         public string PhoneNumber { get; set; } = null!;
 
+<<<<<<< HEAD
         public string? JwtToken { get; set; } = null!;
+=======
+        public string JwtToken { get; set; } = null!;
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b
 
         [Required]
         public UserType UserType { get; set; }

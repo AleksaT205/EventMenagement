@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using EventManagementSystem.Repositories;
 using EventManagementSystem.Services;
 using EventManagementSystem.UnitOfWork;
@@ -10,16 +11,27 @@ using Microsoft.OpenApi.Models;
 using System;
 using System.Security.Claims;
 using System.Text;
+=======
+using EventMenagementSystem.EntityFramework.Context;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.OpenApi.Models;
+using EventManagementSystem.Repositories;
+using EventManagementSystem.UnitOfWork;
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+<<<<<<< HEAD
 builder.Services.AddControllers()
     .AddJsonOptions(options =>
     {
         // Preserve reference loops in JSON serialization
         options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.Preserve;
     });
+=======
+builder.Services.AddControllers();
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b
 
 // Register DbContext with the dependency injection container
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
@@ -35,6 +47,7 @@ builder.Services.AddScoped<IReviewRepository, ReviewRepository>();
 // Register UnitOfWork
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
+<<<<<<< HEAD
 // Register services
 builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<IEventService, EventService>();
@@ -101,10 +114,13 @@ builder.Services.AddCors(options =>
             .AllowCredentials()); // Allows sending credentials (e.g., JWT token)
 });
 
+=======
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b
 // Add Swagger services
 builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
+<<<<<<< HEAD
     c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
     {
         Description = "JWT Authorization header using the Bearer scheme. Example: \"Authorization: Bearer {token}\"",
@@ -127,6 +143,8 @@ builder.Services.AddSwaggerGen(c =>
             Array.Empty<string>()
         }
     });
+=======
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b
 });
 
 var app = builder.Build();
@@ -152,6 +170,7 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+<<<<<<< HEAD
 // Apply CORS policy
 app.UseCors("AllowLocalhost4200");
 
@@ -161,9 +180,18 @@ app.UseAuthorization();
 // Use session
 app.UseSession();
 
+=======
+app.UseAuthorization();
+
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b
 // Map the default controller route
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b

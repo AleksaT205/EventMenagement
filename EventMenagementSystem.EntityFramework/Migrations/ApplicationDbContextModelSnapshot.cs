@@ -105,6 +105,10 @@ namespace EventMenagementSystem.EntityFramework.Migrations
                         .HasColumnType("text");
 
                     b.Property<string>("JwtToken")
+<<<<<<< HEAD
+=======
+                        .IsRequired()
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b
                         .HasColumnType("text");
 
                     b.Property<string>("LastName")
@@ -141,9 +145,12 @@ namespace EventMenagementSystem.EntityFramework.Migrations
                         .HasColumnType("integer")
                         .HasColumnOrder(1);
 
+<<<<<<< HEAD
                     b.Property<int>("SpotsReserved")
                         .HasColumnType("integer");
 
+=======
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b
                     b.HasKey("UserID", "EventID");
 
                     b.HasIndex("EventID");

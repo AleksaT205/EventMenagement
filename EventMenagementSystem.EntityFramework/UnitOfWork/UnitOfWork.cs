@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using System;
 using System.Threading.Tasks;
 using EventManagementSystem.Repositories;
@@ -7,6 +8,16 @@ using EventMenagementSystem.EntityFramework.Repositories;
 namespace EventManagementSystem.UnitOfWork
 {
     public class UnitOfWork : IUnitOfWork
+=======
+﻿using EventManagementSystem.Repositories;
+using EventMenagementSystem.EntityFramework.Context;
+using System;
+using System.Threading.Tasks;
+
+namespace EventManagementSystem.UnitOfWork
+{
+    public class UnitOfWork : IUnitOfWork, IDisposable
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b
     {
         private readonly ApplicationDbContext _context;
         private bool _disposed = false;
@@ -15,11 +26,19 @@ namespace EventManagementSystem.UnitOfWork
         public IEventRepository EventRepository { get; }
         public IReviewRepository ReviewRepository { get; }
 
+<<<<<<< HEAD
         private IUserEventRepository _userEventRepository;
 
         public IUserEventRepository UserEventRepository => _userEventRepository ??= new UserEventRepository(_context);
 
         public UnitOfWork(ApplicationDbContext context, IUserRepository userRepository, IEventRepository eventRepository, IReviewRepository reviewRepository)
+=======
+        public UnitOfWork(
+            ApplicationDbContext context,
+            IUserRepository userRepository,
+            IEventRepository eventRepository,
+            IReviewRepository reviewRepository)
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b
         {
             _context = context;
             UserRepository = userRepository;
@@ -27,6 +46,7 @@ namespace EventManagementSystem.UnitOfWork
             ReviewRepository = reviewRepository;
         }
 
+<<<<<<< HEAD
         public void Update<TEntity>(TEntity entity) where TEntity : class
         {
             _context.Set<TEntity>().Update(entity);
@@ -35,6 +55,13 @@ namespace EventManagementSystem.UnitOfWork
         public async Task<int> SaveChangesAsync()
         {
             return await _context.SaveChangesAsync();
+=======
+
+        public void Dispose()
+        {
+            Dispose(true);
+            GC.SuppressFinalize(this);
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b
         }
 
         protected virtual void Dispose(bool disposing)
@@ -45,6 +72,7 @@ namespace EventManagementSystem.UnitOfWork
                 {
                     _context.Dispose();
                 }
+<<<<<<< HEAD
             }
             _disposed = true;
         }
@@ -53,6 +81,16 @@ namespace EventManagementSystem.UnitOfWork
         {
             Dispose(true);
             GC.SuppressFinalize(this);
+=======
+
+                _disposed = true;
+            }
+        }
+
+        public async Task<int> SaveChangesAsync()
+        {
+            return await _context.SaveChangesAsync();
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b
         }
     }
 }
@@ -60,8 +98,11 @@ namespace EventManagementSystem.UnitOfWork
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
+=======
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b

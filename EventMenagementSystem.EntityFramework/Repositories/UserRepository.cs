@@ -18,6 +18,7 @@ namespace EventManagementSystem.Repositories
             _context = context;
         }
 
+<<<<<<< HEAD
         public async Task<User> GetByUsernameAsync(string username)
         {
             return await _context.Users.FirstOrDefaultAsync(u => u.Username == username);
@@ -35,3 +36,8 @@ namespace EventManagementSystem.Repositories
 
 
 
+=======
+
+    }
+}
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b

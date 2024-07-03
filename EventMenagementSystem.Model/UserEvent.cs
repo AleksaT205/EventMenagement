@@ -13,10 +13,13 @@ namespace EventManagementSystem.Model
         [Key, Column(Order = 1)]
         public int EventID { get; set; }
         public Event Event { get; set; } = null!;
+<<<<<<< HEAD
 
         // Novi atribut za broj rezervisanih mesta
         [Required]
         public int SpotsReserved { get; set; }
+=======
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b
     }
 }
 

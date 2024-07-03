@@ -9,4 +9,7 @@ D:\EventMenagementSystem\EventMenagementSystem.Model\obj\Debug\net8.0\EventMenag
 D:\EventMenagementSystem\EventMenagementSystem.Model\obj\Debug\net8.0\refint\EventMenagementSystem.Model.dll
 D:\EventMenagementSystem\EventMenagementSystem.Model\obj\Debug\net8.0\EventMenagementSystem.Model.pdb
 D:\EventMenagementSystem\EventMenagementSystem.Model\obj\Debug\net8.0\ref\EventMenagementSystem.Model.dll
+<<<<<<< HEAD
 D:\EventMenagementSystem\EventMenagementSystem.Model\obj\Debug\net8.0\EventMenagementSystem.Model.sourcelink.json
+=======
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b

@@ -7,8 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
     <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.6" />
+=======
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.6" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.6">
       <PrivateAssets>all</PrivateAssets>
@@ -21,11 +24,18 @@
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+<<<<<<< HEAD
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.6.1" />
+=======
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\EventManagementSystem.Services\EventManagementSystem.Services.csproj" />
+<<<<<<< HEAD
+=======
+    <ProjectReference Include="..\EventMenagementSystem.EntityFramework\EventMenagementSystem.EntityFramework.csproj" />
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b
     <ProjectReference Include="..\EventMenagementSystem.Model\EventMenagementSystem.Model.csproj" />
   </ItemGroup>
 

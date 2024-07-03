@@ -1,6 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+<<<<<<< HEAD
 using System.Linq.Expressions;
+=======
+using System.Linq;
+using System.Linq.Expressions;
+using System.Text;
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b
 using System.Threading.Tasks;
 
 namespace EventMenagementSystem.EntityFramework.Repositories

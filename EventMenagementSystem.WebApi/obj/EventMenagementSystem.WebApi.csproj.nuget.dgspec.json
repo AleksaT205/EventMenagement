@@ -268,6 +268,12 @@
               "D:\\EventMenagementSystem\\EventManagementSystem.Services\\EventManagementSystem.Services.csproj": {
                 "projectPath": "D:\\EventMenagementSystem\\EventManagementSystem.Services\\EventManagementSystem.Services.csproj"
               },
+<<<<<<< HEAD
+=======
+              "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj": {
+                "projectPath": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj"
+              },
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b
               "D:\\EventMenagementSystem\\EventMenagementSystem.Model\\EventMenagementSystem.Model.csproj": {
                 "projectPath": "D:\\EventMenagementSystem\\EventMenagementSystem.Model\\EventMenagementSystem.Model.csproj"
               }
@@ -289,6 +295,7 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+<<<<<<< HEAD
             "BCrypt.Net-Next": {
               "target": "Package",
               "version": "[4.0.3, )"
@@ -297,6 +304,8 @@
               "target": "Package",
               "version": "[8.0.6, )"
             },
+=======
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.6, )"
@@ -324,10 +333,13 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
+<<<<<<< HEAD
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
               "version": "[7.6.1, )"
+=======
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b
             }
           },
           "imports": [

@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ﻿using EventMenagementSystem.EntityFramework.Context;
+=======
+﻿using EventManagementSystem.Model;
+using EventMenagementSystem.EntityFramework.Context;
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b
 using EventMenagementSystem.EntityFramework.Repositories;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -59,4 +64,7 @@ namespace EventManagementSystem.Repositories
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> bd3ff6bf1380c218b964be0c39adae59c95b979b
