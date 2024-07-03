@@ -71,9 +71,10 @@ public class EventController : ControllerBase
         }
         catch (Exception ex)
         {
-            return StatusCode(500, $"Internal server error: {ex.Message}");
+            return StatusCode(500, $"Interna serverska greška: {ex.Message}");
         }
     }
+
 
     [HttpPost("AddEvent")]
     public async Task<ActionResult<Event>> AddEvent([FromBody] EventDto eventDto)

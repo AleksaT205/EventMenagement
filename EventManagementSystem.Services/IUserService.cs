@@ -12,10 +12,9 @@ namespace EventManagementSystem.Services
         Task<User> CreateUser(User user);
         Task DeleteUser(int id);
         Task UpdateUser(User user);
-
         Task<bool> ReserveEvent(int userId, int eventId, int spotsToReserve);
         Task<bool> CancelReservation(int userId, int eventId);
-        Task<List<Event>> GetUserReservations(int userId);
+        Task<List<UserReservationDTO>> GetUserReservations(int userId);
     }
 }
 

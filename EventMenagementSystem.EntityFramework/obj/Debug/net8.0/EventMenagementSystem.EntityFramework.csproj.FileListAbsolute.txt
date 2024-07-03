@@ -15,3 +15,4 @@ D:\EventMenagementSystem\EventMenagementSystem.EntityFramework\obj\Debug\net8.0\
 D:\EventMenagementSystem\EventMenagementSystem.EntityFramework\obj\Debug\net8.0\ref\EventMenagementSystem.EntityFramework.dll
 D:\EventMenagementSystem\EventMenagementSystem.EntityFramework\bin\Debug\net8.0\EventMenagementSystem.EntityFramework.runtimeconfig.json
 D:\EventMenagementSystem\EventMenagementSystem.EntityFramework\obj\Debug\net8.0\EventMenagementSystem.EntityFramework.genruntimeconfig.cache
+D:\EventMenagementSystem\EventMenagementSystem.EntityFramework\obj\Debug\net8.0\EventMenagementSystem.EntityFramework.sourcelink.json

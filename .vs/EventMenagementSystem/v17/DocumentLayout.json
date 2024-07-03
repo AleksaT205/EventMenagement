@@ -1,0 +1,644 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EventMenagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22321CBB-CCF6-41F2-84FE-787B8830F3CA}|EventManagementSystem.Services\\EventManagementSystem.Services.csproj|d:\\eventmenagementsystem\\eventmanagementsystem.services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22321CBB-CCF6-41F2-84FE-787B8830F3CA}|EventManagementSystem.Services\\EventManagementSystem.Services.csproj|solutionrelative:eventmanagementsystem.services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22321CBB-CCF6-41F2-84FE-787B8830F3CA}|EventManagementSystem.Services\\EventManagementSystem.Services.csproj|d:\\eventmenagementsystem\\eventmanagementsystem.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22321CBB-CCF6-41F2-84FE-787B8830F3CA}|EventManagementSystem.Services\\EventManagementSystem.Services.csproj|solutionrelative:eventmanagementsystem.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1C9CE7-2CDB-4299-9051-668A7D1DE0E5}|EventMenagementSystem.WebApi\\EventMenagementSystem.WebApi.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.webapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1C9CE7-2CDB-4299-9051-668A7D1DE0E5}|EventMenagementSystem.WebApi\\EventMenagementSystem.WebApi.csproj|solutionrelative:eventmenagementsystem.webapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22321CBB-CCF6-41F2-84FE-787B8830F3CA}|EventManagementSystem.Services\\EventManagementSystem.Services.csproj|d:\\eventmenagementsystem\\eventmanagementsystem.services\\userreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22321CBB-CCF6-41F2-84FE-787B8830F3CA}|EventManagementSystem.Services\\EventManagementSystem.Services.csproj|solutionrelative:eventmanagementsystem.services\\userreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22321CBB-CCF6-41F2-84FE-787B8830F3CA}|EventManagementSystem.Services\\EventManagementSystem.Services.csproj|d:\\eventmenagementsystem\\eventmanagementsystem.services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22321CBB-CCF6-41F2-84FE-787B8830F3CA}|EventManagementSystem.Services\\EventManagementSystem.Services.csproj|solutionrelative:eventmanagementsystem.services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1187973-BECA-4331-BB88-7FDA85EF158C}|EventMenagementSystem.Model\\EventMenagementSystem.Model.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.model\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1187973-BECA-4331-BB88-7FDA85EF158C}|EventMenagementSystem.Model\\EventMenagementSystem.Model.csproj|solutionrelative:eventmenagementsystem.model\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22321CBB-CCF6-41F2-84FE-787B8830F3CA}|EventManagementSystem.Services\\EventManagementSystem.Services.csproj|d:\\eventmenagementsystem\\eventmanagementsystem.services\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22321CBB-CCF6-41F2-84FE-787B8830F3CA}|EventManagementSystem.Services\\EventManagementSystem.Services.csproj|solutionrelative:eventmanagementsystem.services\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1C9CE7-2CDB-4299-9051-668A7D1DE0E5}|EventMenagementSystem.WebApi\\EventMenagementSystem.WebApi.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1C9CE7-2CDB-4299-9051-668A7D1DE0E5}|EventMenagementSystem.WebApi\\EventMenagementSystem.WebApi.csproj|solutionrelative:eventmenagementsystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1187973-BECA-4331-BB88-7FDA85EF158C}|EventMenagementSystem.Model\\EventMenagementSystem.Model.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1187973-BECA-4331-BB88-7FDA85EF158C}|EventMenagementSystem.Model\\EventMenagementSystem.Model.csproj|solutionrelative:eventmenagementsystem.model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1187973-BECA-4331-BB88-7FDA85EF158C}|EventMenagementSystem.Model\\EventMenagementSystem.Model.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.model\\userevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1187973-BECA-4331-BB88-7FDA85EF158C}|EventMenagementSystem.Model\\EventMenagementSystem.Model.csproj|solutionrelative:eventmenagementsystem.model\\userevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1C9CE7-2CDB-4299-9051-668A7D1DE0E5}|EventMenagementSystem.WebApi\\EventMenagementSystem.WebApi.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.webapi\\eventmenagementsystem.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA1C9CE7-2CDB-4299-9051-668A7D1DE0E5}|EventMenagementSystem.WebApi\\EventMenagementSystem.WebApi.csproj|solutionrelative:eventmenagementsystem.webapi\\eventmenagementsystem.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1187973-BECA-4331-BB88-7FDA85EF158C}|EventMenagementSystem.Model\\EventMenagementSystem.Model.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1187973-BECA-4331-BB88-7FDA85EF158C}|EventMenagementSystem.Model\\EventMenagementSystem.Model.csproj|solutionrelative:eventmenagementsystem.model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1C9CE7-2CDB-4299-9051-668A7D1DE0E5}|EventMenagementSystem.WebApi\\EventMenagementSystem.WebApi.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.webapi\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1C9CE7-2CDB-4299-9051-668A7D1DE0E5}|EventMenagementSystem.WebApi\\EventMenagementSystem.WebApi.csproj|solutionrelative:eventmenagementsystem.webapi\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1C9CE7-2CDB-4299-9051-668A7D1DE0E5}|EventMenagementSystem.WebApi\\EventMenagementSystem.WebApi.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA1C9CE7-2CDB-4299-9051-668A7D1DE0E5}|EventMenagementSystem.WebApi\\EventMenagementSystem.WebApi.csproj|solutionrelative:eventmenagementsystem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22321CBB-CCF6-41F2-84FE-787B8830F3CA}|EventManagementSystem.Services\\EventManagementSystem.Services.csproj|d:\\eventmenagementsystem\\eventmanagementsystem.services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22321CBB-CCF6-41F2-84FE-787B8830F3CA}|EventManagementSystem.Services\\EventManagementSystem.Services.csproj|solutionrelative:eventmanagementsystem.services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22321CBB-CCF6-41F2-84FE-787B8830F3CA}|EventManagementSystem.Services\\EventManagementSystem.Services.csproj|d:\\eventmenagementsystem\\eventmanagementsystem.services\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22321CBB-CCF6-41F2-84FE-787B8830F3CA}|EventManagementSystem.Services\\EventManagementSystem.Services.csproj|solutionrelative:eventmanagementsystem.services\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22321CBB-CCF6-41F2-84FE-787B8830F3CA}|EventManagementSystem.Services\\EventManagementSystem.Services.csproj|d:\\eventmenagementsystem\\eventmanagementsystem.services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22321CBB-CCF6-41F2-84FE-787B8830F3CA}|EventManagementSystem.Services\\EventManagementSystem.Services.csproj|solutionrelative:eventmanagementsystem.services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22321CBB-CCF6-41F2-84FE-787B8830F3CA}|EventManagementSystem.Services\\EventManagementSystem.Services.csproj|d:\\eventmenagementsystem\\eventmanagementsystem.services\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22321CBB-CCF6-41F2-84FE-787B8830F3CA}|EventManagementSystem.Services\\EventManagementSystem.Services.csproj|solutionrelative:eventmanagementsystem.services\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.entityframework\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|solutionrelative:eventmenagementsystem.entityframework\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.entityframework\\repositories\\usereventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|solutionrelative:eventmenagementsystem.entityframework\\repositories\\usereventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.entityframework\\repositories\\iusereventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|solutionrelative:eventmenagementsystem.entityframework\\repositories\\iusereventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.entityframework\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|solutionrelative:eventmenagementsystem.entityframework\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.entityframework\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|solutionrelative:eventmenagementsystem.entityframework\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.entityframework\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|solutionrelative:eventmenagementsystem.entityframework\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.entityframework\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|solutionrelative:eventmenagementsystem.entityframework\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.entityframework\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|solutionrelative:eventmenagementsystem.entityframework\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.entityframework\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|solutionrelative:eventmenagementsystem.entityframework\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.entityframework\\repositories\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|solutionrelative:eventmenagementsystem.entityframework\\repositories\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.entityframework\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|solutionrelative:eventmenagementsystem.entityframework\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.entityframework\\repositories\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|solutionrelative:eventmenagementsystem.entityframework\\repositories\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22321CBB-CCF6-41F2-84FE-787B8830F3CA}|EventManagementSystem.Services\\EventManagementSystem.Services.csproj|d:\\eventmenagementsystem\\eventmanagementsystem.services\\eventmanagementsystem.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22321CBB-CCF6-41F2-84FE-787B8830F3CA}|EventManagementSystem.Services\\EventManagementSystem.Services.csproj|solutionrelative:eventmanagementsystem.services\\eventmanagementsystem.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1C9CE7-2CDB-4299-9051-668A7D1DE0E5}|EventMenagementSystem.WebApi\\EventMenagementSystem.WebApi.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.webapi\\dotnet||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EA1C9CE7-2CDB-4299-9051-668A7D1DE0E5}|EventMenagementSystem.WebApi\\EventMenagementSystem.WebApi.csproj|solutionrelative:eventmenagementsystem.webapi\\dotnet||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.entityframework\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|solutionrelative:eventmenagementsystem.entityframework\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1C9CE7-2CDB-4299-9051-668A7D1DE0E5}|EventMenagementSystem.WebApi\\EventMenagementSystem.WebApi.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA1C9CE7-2CDB-4299-9051-668A7D1DE0E5}|EventMenagementSystem.WebApi\\EventMenagementSystem.WebApi.csproj|solutionrelative:eventmenagementsystem.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Migrations\\20240611144830_M2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventMenagementSystem.EntityFramework\\Migrations\\20240611144830_M2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Migrations\\20240611144129_M1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventMenagementSystem.EntityFramework\\Migrations\\20240611144129_M1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.entityframework\\migrations\\20240613084537_initial-review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|solutionrelative:eventmenagementsystem.entityframework\\migrations\\20240613084537_initial-review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|d:\\eventmenagementsystem\\eventmenagementsystem.entityframework\\migrations\\20240619080013_jwtcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2101BED-C865-4415-98EF-F31693090576}|EventMenagementSystem.EntityFramework\\EventMenagementSystem.EntityFramework.csproj|solutionrelative:eventmenagementsystem.entityframework\\migrations\\20240619080013_jwtcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserReservationDTO.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventManagementSystem.Services\\UserReservationDTO.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem.Services\\UserReservationDTO.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventManagementSystem.Services\\UserReservationDTO.cs",
+              "RelativeToolTip": "EventManagementSystem.Services\\UserReservationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:19:14.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.WebApi\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.WebApi\\Controllers\\EventController.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.WebApi\\Controllers\\EventController.cs",
+              "RelativeToolTip": "EventMenagementSystem.WebApi\\Controllers\\EventController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:45:23.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventManagementSystem.Services\\EventService.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem.Services\\EventService.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventManagementSystem.Services\\EventService.cs",
+              "RelativeToolTip": "EventManagementSystem.Services\\EventService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:29:06.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.Model\\Event.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.Model\\Event.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.Model\\Event.cs",
+              "RelativeToolTip": "EventMenagementSystem.Model\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:07:58.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.Model\\User.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.Model\\User.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.Model\\User.cs",
+              "RelativeToolTip": "EventMenagementSystem.Model\\User.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:47:18.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserEvent.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.Model\\UserEvent.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.Model\\UserEvent.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.Model\\UserEvent.cs",
+              "RelativeToolTip": "EventMenagementSystem.Model\\UserEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:09:25.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.Model\\Review.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.Model\\Review.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.Model\\Review.cs",
+              "RelativeToolTip": "EventMenagementSystem.Model\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T09:49:26.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "EventMenagementSystem.WebApi\\appsettings.json",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.WebApi\\appsettings.json",
+              "RelativeToolTip": "EventMenagementSystem.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T14:01:22.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventMenagementSystem.WebApi.csproj",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.WebApi\\EventMenagementSystem.WebApi.csproj",
+              "RelativeDocumentMoniker": "EventMenagementSystem.WebApi\\EventMenagementSystem.WebApi.csproj",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.WebApi\\EventMenagementSystem.WebApi.csproj",
+              "RelativeToolTip": "EventMenagementSystem.WebApi\\EventMenagementSystem.WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T14:36:20.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventManagementSystem.Services\\UserService.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem.Services\\UserService.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventManagementSystem.Services\\UserService.cs",
+              "RelativeToolTip": "EventManagementSystem.Services\\UserService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAnwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:29:41.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventManagementSystem.Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem.Services\\IUserService.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventManagementSystem.Services\\IUserService.cs",
+              "RelativeToolTip": "EventManagementSystem.Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:29:26.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventDTO.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventManagementSystem.Services\\EventDTO.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem.Services\\EventDTO.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventManagementSystem.Services\\EventDTO.cs",
+              "RelativeToolTip": "EventManagementSystem.Services\\EventDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T12:54:42.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.WebApi\\Program.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.WebApi\\Program.cs",
+              "RelativeToolTip": "EventMenagementSystem.WebApi\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAmwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:39:37.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthorizationController.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.WebApi\\Controllers\\AuthorizationController.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.WebApi\\Controllers\\AuthorizationController.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.WebApi\\Controllers\\AuthorizationController.cs",
+              "RelativeToolTip": "EventMenagementSystem.WebApi\\Controllers\\AuthorizationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:07:13.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventManagementSystem.Services\\IEventService.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem.Services\\IEventService.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventManagementSystem.Services\\IEventService.cs",
+              "RelativeToolTip": "EventManagementSystem.Services\\IEventService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:29:15.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventManagementSystem.Services\\IReviewService.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem.Services\\IReviewService.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventManagementSystem.Services\\IReviewService.cs",
+              "RelativeToolTip": "EventManagementSystem.Services\\IReviewService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:29:20.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventManagementSystem.Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem.Services\\ReviewService.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventManagementSystem.Services\\ReviewService.cs",
+              "RelativeToolTip": "EventManagementSystem.Services\\ReviewService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:29:33.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReviewDTO.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventManagementSystem.Services\\ReviewDTO.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem.Services\\ReviewDTO.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventManagementSystem.Services\\ReviewDTO.cs",
+              "RelativeToolTip": "EventManagementSystem.Services\\ReviewDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:41:34.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Repositories\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.EntityFramework\\Repositories\\ReviewRepository.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Repositories\\ReviewRepository.cs",
+              "RelativeToolTip": "EventMenagementSystem.EntityFramework\\Repositories\\ReviewRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:21:48.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserEventRepository.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Repositories\\UserEventRepository.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.EntityFramework\\Repositories\\UserEventRepository.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Repositories\\UserEventRepository.cs",
+              "RelativeToolTip": "EventMenagementSystem.EntityFramework\\Repositories\\UserEventRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:53:42.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserEventRepository.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Repositories\\IUserEventRepository.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.EntityFramework\\Repositories\\IUserEventRepository.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Repositories\\IUserEventRepository.cs",
+              "RelativeToolTip": "EventMenagementSystem.EntityFramework\\Repositories\\IUserEventRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:52:23.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.EntityFramework\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "EventMenagementSystem.EntityFramework\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:19:44.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Repositories\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.EntityFramework\\Repositories\\IBaseRepository.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Repositories\\IBaseRepository.cs",
+              "RelativeToolTip": "EventMenagementSystem.EntityFramework\\Repositories\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:24:17.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.EntityFramework\\Repositories\\BaseRepository.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "EventMenagementSystem.EntityFramework\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:40:17.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.EntityFramework\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "EventMenagementSystem.EntityFramework\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:21:46.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.EntityFramework\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "EventMenagementSystem.EntityFramework\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:20:57.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.EntityFramework\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "EventMenagementSystem.EntityFramework\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:20:35.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Repositories\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.EntityFramework\\Repositories\\IEventRepository.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Repositories\\IEventRepository.cs",
+              "RelativeToolTip": "EventMenagementSystem.EntityFramework\\Repositories\\IEventRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:21:42.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Repositories\\EventRepository.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.EntityFramework\\Repositories\\EventRepository.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Repositories\\EventRepository.cs",
+              "RelativeToolTip": "EventMenagementSystem.EntityFramework\\Repositories\\EventRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:21:40.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Repositories\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.EntityFramework\\Repositories\\IReviewRepository.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Repositories\\IReviewRepository.cs",
+              "RelativeToolTip": "EventMenagementSystem.EntityFramework\\Repositories\\IReviewRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:21:44.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240619080013_JWTCode.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Migrations\\20240619080013_JWTCode.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.EntityFramework\\Migrations\\20240619080013_JWTCode.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Migrations\\20240619080013_JWTCode.cs",
+              "RelativeToolTip": "EventMenagementSystem.EntityFramework\\Migrations\\20240619080013_JWTCode.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:00:13.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "dotnet",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.WebApi\\dotnet",
+              "RelativeDocumentMoniker": "EventMenagementSystem.WebApi\\dotnet",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.WebApi\\dotnet",
+              "RelativeToolTip": "EventMenagementSystem.WebApi\\dotnet",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-19T07:18:17.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EventManagementSystem.Services.csproj",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventManagementSystem.Services\\EventManagementSystem.Services.csproj",
+              "RelativeDocumentMoniker": "EventManagementSystem.Services\\EventManagementSystem.Services.csproj",
+              "ToolTip": "D:\\EventMenagementSystem\\EventManagementSystem.Services\\EventManagementSystem.Services.csproj",
+              "RelativeToolTip": "EventManagementSystem.Services\\EventManagementSystem.Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T09:02:41.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.EntityFramework\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EventMenagementSystem.EntityFramework\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:52:12.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240613084537_Initial-Review.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Migrations\\20240613084537_Initial-Review.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.EntityFramework\\Migrations\\20240613084537_Initial-Review.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Migrations\\20240613084537_Initial-Review.cs",
+              "RelativeToolTip": "EventMenagementSystem.EntityFramework\\Migrations\\20240613084537_Initial-Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:45:38.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240611144129_M1.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Migrations\\20240611144129_M1.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.EntityFramework\\Migrations\\20240611144129_M1.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Migrations\\20240611144129_M1.cs",
+              "RelativeToolTip": "EventMenagementSystem.EntityFramework\\Migrations\\20240611144129_M1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:41:29.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EventMenagementSystem.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EventMenagementSystem.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAABRwBMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T06:42:28.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240611144830_M2.cs",
+              "DocumentMoniker": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Migrations\\20240611144830_M2.cs",
+              "RelativeDocumentMoniker": "EventMenagementSystem.EntityFramework\\Migrations\\20240611144830_M2.cs",
+              "ToolTip": "D:\\EventMenagementSystem\\EventMenagementSystem.EntityFramework\\Migrations\\20240611144830_M2.cs",
+              "RelativeToolTip": "EventMenagementSystem.EntityFramework\\Migrations\\20240611144830_M2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:48:31.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AQIAACYAAAAAAAAAAAAewDUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-11T14:11:57.603Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

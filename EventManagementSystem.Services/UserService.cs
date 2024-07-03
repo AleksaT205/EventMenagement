@@ -55,16 +55,25 @@ namespace EventManagementSystem.Services
             }
         }
 
-        public async Task<List<Event>> GetUserReservations(int userId)
+        public async Task<List<UserReservationDTO>> GetUserReservations(int userId)
         {
             var user = await _unitOfWork.UserRepository.GetUserWithEventsAsync(userId);
 
             if (user == null)
             {
-                throw new ArgumentException($"User with ID {userId} not found.");
+                throw new ArgumentException($"Korisnik sa ID-jem {userId} nije pronađen.");
             }
 
-            return user.UserEvents.Select(ue => ue.Event).ToList();
+            var userReservations = user.UserEvents.Select(ue => new UserReservationDTO
+            {
+                EventId = ue.Event.ID,
+                EventName = ue.Event.Name,
+                EventDate = ue.Event.Date,
+                EventLocation = ue.Event.Location,
+                ReservedSeats = ue.SpotsReserved
+            }).ToList();
+
+            return userReservations;
         }
 
 
